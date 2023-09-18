@@ -1,0 +1,9 @@
+.active {
+  background-color: #000;
+  color: #ccc;
+}
+
+td {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
